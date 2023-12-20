@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bed7d1ad-af36-4724-bc3e-a42eaf92f5b7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework-generics/homework-generics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework-generics/src/Utilidades.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework-generics/src/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pi-expense-tracking.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config/DBConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dao/CategoryDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dao/Dao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dao/ExpenseDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dao/dto/CategoryDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dao/dto/ExpenseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dao/impl/CategoryDaoImplH2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dao/impl/ExpenseDaoImplH2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/Expense.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptions/InvalidExpenseException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/ExpenseAmountValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/ExpenseAmountValidatorImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/ExpenseCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/ExpenseCalculatorImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/CategoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/ExpenseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/ExpenseServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/Utilities.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2XZaF75SqEhxh2MmxVOFJ8t3VyF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "/home/cristian/SoftDev/Java/Libraries/jar_files_for_unit_testing_with_mockito",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="dao.impl" />
+      <recent name="exceptions" />
+      <recent name="interfaces" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/config" />
+      <recent name="$PROJECT_DIR$/homework-generics/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="pi-expense-tracking" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="homework-generics" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bed7d1ad-af36-4724-bc3e-a42eaf92f5b7" name="Changes" comment="" />
+      <created>1698838953377</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698838953377</updated>
+    </task>
+    <servers />
+  </component>
+</project>

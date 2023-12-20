@@ -1,0 +1,17 @@
+CREATE SCHEMA IF NOT EXISTS expenses_schema;
+
+SET SCHEMA expenses_schema;
+
+CREATE TABLE IF NOT EXISTS category (
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    name VARCHAR(20) NOT NULL UNIQUE
+);
+
+CREATE TABLE IF NOT EXISTS expense (
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    date VARCHAR(10),
+    amount DOUBLE,
+    description VARCHAR(100) NOT NULL,
+    categoryId INT,
+    CONSTRAINT FK_EXPENSE_CATEGORY FOREIGN KEY (categoryId) REFERENCES category(id)
+);
